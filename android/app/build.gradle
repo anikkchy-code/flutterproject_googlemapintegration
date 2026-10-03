@@ -1,0 +1,7 @@
+defaultConfig {
+    applicationId "com.example.flutter_google_maps_assignment"
+    minSdk 21
+    targetSdk flutter.targetSdkVersion
+    versionCode flutterVersionCode.value.toInteger
+    versionName flutterVersionName
+}
